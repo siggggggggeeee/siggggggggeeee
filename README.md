@@ -31,14 +31,6 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/siggggggggeeee/siggggggggeeee/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/siggggggggeeee/siggggggggeeee/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/siggggggggeeee/siggggggggeeee/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
 <div align="center">
   <img src="https://count.getloli.com/@:siggggggggeeee?theme=sketch-2&padding=7&scale=1&align=bottom&pixelated=0&darkmode=1"  />
 </div>
