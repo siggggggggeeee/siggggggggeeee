@@ -2,8 +2,8 @@
 
 <p align="center">
   15year old builder passionate about creating and. <br>
-  Main stack: JavaScript. <br>
-  Currently learning: HTML & CSS. <br>
+  Main stack: HTML & CSS. <br>
+  Currently learning: Javascript. <br>
   Moving towards: TypeScript & Tauri.
 </p>
 
