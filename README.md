@@ -1,5 +1,17 @@
-<h1 align="center">I’m Sigge, based in Sweden. I build stuff.</h1>
-<strong align="center">I also own Project Blackout.</strong>
+<h1 align="center">Sigge — Developer from Sweden 🇸🇪</h1>
+
+<p align="center">
+  15year old builder passionate about creating and. <br>
+  Main stack: JavaScript. <br>
+  Currently learning: HTML & CSS. <br>
+  Moving towards: TypeScript & Tauri.
+</p>
+
+<p align="center">
+  Founder of <strong>
+  Project Blackout
+</strong>
+</p>
 
 ###
 
