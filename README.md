@@ -1,5 +1,5 @@
 <h1 align="center">I’m Sigge, based in Sweden. I build stuff.</h1>
-<p>I also own Project Blackout.</p>
+<strong align="center">I also own Project Blackout.</strong>
 
 ###
 
