@@ -1,7 +1,7 @@
 <h1 align="center">Sigge — Developer from Sweden</h1>
 
 <p align="center">
-  15-year-old builder who loves bringing ideas to life through projects. Outside of building, I play piano and enjoy working with firecrackers.<br />
+  15 year old builder who loves bringing ideas to life through projects. Outside of building, I play piano and enjoy working with firecrackers.<br />
   Main stack: HTML &amp; CSS.<br />
   Currently learning: JavaScript.<br />
   Moving towards: TypeScript &amp; Tauri.
