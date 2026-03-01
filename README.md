@@ -1,16 +1,14 @@
-<h1 align="center">Sigge — Developer from Sweden<h1>
+<h1 align="center">Sigge — Developer from Sweden</h1>
 
 <p align="center">
-  15 year old builder who loves bringing ideas to life through projects. Outside of building, I play piano and enjoy working with firecrackers. <br>
-  Main stack: HTML & CSS. <br>
-  Currently learning: Javascript. <br>
-  Moving towards: TypeScript & Tauri.
+  15-year-old builder who loves bringing ideas to life through projects. Outside of building, I play piano and enjoy working with firecrackers.<br />
+  Main stack: HTML &amp; CSS.<br />
+  Currently learning: JavaScript.<br />
+  Moving towards: TypeScript &amp; Tauri.
 </p>
 
 <p align="center">
-  Founder of <strong>
-  Project Blackout
-</strong>
+  Founder of <strong>Project Blackout</strong>
 </p>
 
 ###
